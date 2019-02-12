@@ -1,0 +1,23 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emanuelesantaniello/Hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emanuelesantaniello/Hello/issues"
+  },
+  "homepage": "https://github.com/Emanuelesantaniello/Hello#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
